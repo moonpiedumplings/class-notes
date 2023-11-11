@@ -1,0 +1,85 @@
+---
+title: "Chapter 4 Heat and Transfer"
+description: ""
+date: "2023-6-11"
+execute:
+  freeze: false
+format:
+    revealjs:
+        incremental: true
+        theme: dark
+        shuffle: true
+        navigation-mode: grid
+        font-size: 17
+    html:
+        code-fold: true
+        code-summary: "Show the code"
+        code-block-background: true
+---
+
+
+## Conduction
+* Heat transfer through substances
+* Air is a poor conductor
+* More significant at surface, between surface and air
+
+## Convection 
+* Heat transfer by substances moving around
+* Thermal expansion hapbends to air parcels
+    - Decreasing density
+    - Parcel rises, which is convection
+* Vertical fluid (gas/liquid) motion
+
+## Advection
+* Horizontol Transfer of heat
+
+## Radiation Emission
+* Objects emit electromagnetic radiation
+* Causes them to lose heat
+
+
+## Radiation Bands:
+* Visible Light:
+    - 0.4 to 0.7 µm
+
+
+## Radiation Absorbition
+* Radiation is absorbed, heating the object up
+
+## Radiation Reflection
+* Albedo: 
+    - Measure of reflectivity
+    - Measured in %, 100 is most reflective
+
+## Radiation Scattering
+* Radiation encounters particles in air, and then scatters
+* Cloud droplets scatter radiation, making clouds appear white
+* Aerosols and molecules scatter certain wavelengths, leading to our blue sky
+
+## Radiative Equilibrium
+* Balance between energy Earth absorbs by radiation and releases by emission
+* Nearly same amounts
+* Moving of imbalances leads to weather systems
+
+## Selective Radiation Absorbers
+* blackbody/ideal radiator
+    - Object that absorbs and emits radiation at max efficiency
+* Atmosphere is not a blackbody
+    - ozone, absorbs ultraviolet (0.3 µm) or less. Also 9.5 µm. 
+
+## Atmospheric "Windows"
+* Mostly visible light is allowed through atmosphere
+* Infrared Windows
+    - Another window absorbs 10 µm 
+
+
+## Greenhouse Effect
+* Earth is like a greenhouse, sunglight enters but does not leave
+* Misnomer, greenhouses are warm because warm air is trapped inside
+* Greenhouse gases
+    - Absorb infrared radiation
+* Human enhancement?
+    - Global warming
+    - Climate Change
+
+

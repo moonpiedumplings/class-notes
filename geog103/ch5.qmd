@@ -1,0 +1,43 @@
+---
+title: "Chapter 5 Water"
+description: ""
+date: "2023-6-11"
+execute:
+  freeze: false
+format:
+    revealjs:
+        incremental: true
+        theme: dark
+        shuffle: true
+        navigation-mode: grid
+        font-size: 17
+    html:
+        code-fold: true
+        code-summary: "Show the code"
+        code-block-background: true
+---
+
+
+## State Transformations 1
+* Gas to Liquid
+    - melting/fusion
+* Liquid to Gas
+    - Evaporization, vaporization, boiling
+* Gas to liquid
+    - Condensation
+
+## State Transformations 2
+* Gas to solid
+    - Deposition
+* Liquid to solid
+    - Freezing, solidification
+* Solid to gas
+    - Sublimation
+
+
+## Latent Heat
+* Heat absorbed or released during phase change
+* Condensation releases heat (warms environment)
+* Evaporization absorbs heat (cools environment)
+
+## Saturation

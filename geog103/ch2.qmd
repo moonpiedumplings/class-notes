@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 Weather Data"
+title: "Chapter 2 Weather Representations"
 description: ""
 date: "2023-6-11"
 execute:
@@ -16,3 +16,6 @@ format:
         code-summary: "Show the code"
         code-block-background: true
 ---
+
+
+## Station Model
