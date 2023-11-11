@@ -49,5 +49,27 @@ format:
 ## Measuring Pressure
 * Barometer (tool)
 * Measured in?
-  - Hectopacals
+  - Hg: mercury, avg at sea levl is 760 mm
+  - Milibars (mb): avg at sea level 1013
+  - Hecopascals (hPa): equal to milibars
+  - psi: 14.6 at sea level
 
+## Pressure Formula Conversion
+
+## Wind:
+* How is it noted:
+  - In the direction of origin
+  - Average over period of time
+* Max speed is a "gust"
+
+
+## Wind Measurement Values
+* 1 knot
+* equals 1.85 km/hr
+* equals 1.15 mph
+* Also Beaufort scale
+
+## Measuring Precipitation
+*  
+
+## Symbols
