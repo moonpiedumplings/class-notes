@@ -1,0 +1,37 @@
+---
+title: "Ch 13 Weather Forecasting"
+description: ""
+date: "2023-11-13"
+execute:
+  freeze: false
+format:
+    revealjs:
+        incremental: true
+        theme: dark
+        shuffle: true
+        navigation-mode: grid
+        font-size: 17
+    html:
+        code-fold: true
+        code-summary: "Show the code"
+        code-block-background: true
+---
+
+
+## Atmospheric Motion at Scale
+* Planetary
+* Synaptic
+    - Hurricane Sized
+    - Conteninatal
+* Mesoscale
+    - Lots of clouds
+    - Regional
+* Convective scale
+    - Bands of clouds, clouds
+* Microscale
+    - Smaller wind movements
+* Molecular Scale
+
+
+
+

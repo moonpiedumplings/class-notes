@@ -1,0 +1,41 @@
+---
+title: "Various Notes"
+description: ""
+date: "2023-11-13"
+execute:
+  freeze: false
+format:
+    revealjs:
+        incremental: true
+        theme: dark
+        shuffle: true
+        navigation-mode: grid
+        font-size: 17
+    html:
+        code-fold: true
+        code-summary: "Show the code"
+        code-block-background: true
+---
+
+
+
+## What's needed to create a statement about climate?
+* Temperature
+* 30 years of data, anything less is too short
+
+
+## Weather Data Letter Symbols:
+* M
+    - Missing
+* T
+    - Trace
+    - Precipitation is less than 1/100th of an inch, minimum for tipping bucket
+
+## What types of clouds are associated with what types of weather?
+* Cold front into warm?
+    - Cumulonimbus
+* Warm into cold?
+    - Nimbostratus, then altostratus, then cirrostratus, then cirrus
+    - Moderate precipitatation
+
+
