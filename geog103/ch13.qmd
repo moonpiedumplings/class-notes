@@ -11,10 +11,6 @@ format:
         shuffle: true
         navigation-mode: grid
         font-size: 17
-    html:
-        code-fold: true
-        code-summary: "Show the code"
-        code-block-background: true
 ---
 
 
